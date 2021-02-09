@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my GitHub page! 
 
 <!--
 **XUKEREN/XUKEREN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Welcome to my GitHub page! 
 
 <div align="middle">
  
