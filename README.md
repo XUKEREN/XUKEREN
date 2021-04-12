@@ -32,6 +32,4 @@ Quick Link
 
 <div align="middle">
  
-![](https://media1.tenor.com/images/542d896e247cb245d0c82ac67d885621/tenor.gif?itemid=3548329)
-
 </div>
