@@ -18,21 +18,7 @@ I am a Ph.D. candidate in [the Epidemiology PhD Program, Keck School of Medicine
 
 
 ## Links
-<div align="middle">
- 
-[Twitter][Twitter]|[LinkedIn][LinkedIn]|[Check out my website][Website]
-
-</div>
-
-<!--
-Quick Link 
--->
-
 [Twitter]:https://twitter.com/kerenxuepi
 [LinkedIn]:https://www.linkedin.com/in/kerenxu/
 [GitHub]:https://github.com/XUKEREN
 [Website]:https://xukeren.rbind.io/
-
-<div align="middle">
- 
-</div>
